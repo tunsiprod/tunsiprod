@@ -1,6 +1,6 @@
 # ![](https://komarev.com/ghpvc/?username=tunsiprod&color=ff69b4)
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm HeNy
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm tunsiprod
 
 ## I'm a Full-Stack Web Developer and AI enthusiast!
 
